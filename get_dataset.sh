@@ -1,6 +1,4 @@
 cd data
-wget https://zenodo.org/record/3723295/files/sampleSubmission.csv?download=1 -O sampleSubmission.csv
-wget https://zenodo.org/record/3723295/files/annotations.csv?download=1 -O annotations.csv
 wget https://zenodo.org/record/3723295/files/subset0.zip?download=1 -O subset0.zip
 wget https://zenodo.org/record/3723295/files/subset1.zip?download=1 -O subset1.zip
 wget https://zenodo.org/record/3723295/files/subset2.zip?download=1 -O subset2.zip
@@ -11,7 +9,6 @@ wget https://zenodo.org/record/3723295/files/subset6.zip?download=1 -O subset6.z
 wget https://zenodo.org/record/4121926/files/subset7.zip?download=1 -O subset7.zip
 wget https://zenodo.org/record/4121926/files/subset8.zip?download=1 -O subset8.zip
 wget https://zenodo.org/record/4121926/files/subset9.zip?download=1 -O subset9.zip
-unzip evaluationScript.zip
 zip -FF subset0.zip -O subset0.fixed.zip && unzip subset0.fixed.zip
 zip -FF subset1.zip -O subset1.fixed.zip && unzip subset1.fixed.zip
 zip -FF subset2.zip -O subset2.fixed.zip && unzip subset2.fixed.zip
