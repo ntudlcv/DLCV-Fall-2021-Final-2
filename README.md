@@ -1,5 +1,10 @@
 # DLCV-Fall-2021-Final-2
 
+# How to run your code?
+> TODO: Please provide example scripts to run your code. For example, 
+> 1. python3 preprocessing.py <Path to data>
+> 2. python3 inference.py <Path to the output csv file>
+> ...
 
 Please refer to [TBD](https://drive.google.com/file/d/1x4a_j7v7w4FqFumNAe_f1hIE69oijvnt/view?usp=sharing) for final project details and rules. **Note that all of final project videos and introduction pdf files can be accessed in your NTU COOL.**
 
@@ -11,7 +16,7 @@ To start working on this project, you should clone this repository into your loc
 Note that you should replace `<username>` with your own GitHub username.
 
 ## Install Packages
-To install the packages automatically, we have provided a `requirements.txt` file for this project. Please use the following script to set up the environment.
+To install the packages automatically, we have provided a `requirements.txt` file for this project. Please use the following script to set up the environment. Note that you are allowed to use any other Python library in this project.
 ```bash
 pip install -r requirements.txt
 ```
