@@ -34,7 +34,7 @@ The shell script will automatically download the dataset and store the data in a
 ## Evaluation Code
 In the starter code of this repository, we have provided a python script for evaluating the results for this project. For Linux users, use the following command to evaluate the results of the sample submission.
 ```bash
-python evaluate.py data/annotations.csv data/sampleSbmission.csv data/sample_seriesuids.csv
+python evaluation.py data/annotations.csv data/sampleSubmission.csv data/sample_seriesuids.csv
 ```
 
 ## Submission Rules
