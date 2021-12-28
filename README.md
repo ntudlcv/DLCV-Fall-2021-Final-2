@@ -39,7 +39,7 @@ python evaluation.py data/annotations.csv data/sampleSubmission.csv data/sample_
 
 ## Submission Rules
 ### Deadline
-110/1/18 (Tue.) 03:00 AM (GMT+8)
+110/1/18 (Tue.) 23:59 (GMT+8)
 
 ## Q&A
 If you have any problems related to the final project, you may
