@@ -18,7 +18,7 @@ Note that you should replace `<username>` with your own GitHub username.
 ## Install Packages
 To install the packages automatically, we have provided a `requirements.txt` file for this project. Please use the following script to set up the environment. Note that you are allowed to use any other Python library in this project.
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Dataset
@@ -34,7 +34,7 @@ The shell script will automatically download the dataset and store the data in a
 ## Evaluation Code
 In the starter code of this repository, we have provided a python script for evaluating the results for this project. For Linux users, use the following command to evaluate the results of the sample submission.
 ```bash
-python evaluation.py data/annotations.csv data/sampleSubmission.csv data/sample_seriesuids.csv
+python3 evaluation.py data/annotations.csv data/sampleSubmission.csv data/sample_seriesuids.csv
 ```
 
 ## Submission Rules
