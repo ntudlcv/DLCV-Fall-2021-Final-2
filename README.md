@@ -6,7 +6,7 @@
 > 2. python3 inference.py <Path to the output csv file>
 > ...
 
-Please refer to [TBD](https://drive.google.com/file/d/1x4a_j7v7w4FqFumNAe_f1hIE69oijvnt/view?usp=sharing) for final project details and rules. **Note that all of final project videos and introduction pdf files can be accessed in your NTU COOL.**
+Please refer to [TBD] for final project details and rules. **Note that all of final project videos and introduction pdf files can be accessed in your NTU COOL.**
 
 ## Usage
 To start working on this project, you should clone this repository into your local machine by using the following command.
